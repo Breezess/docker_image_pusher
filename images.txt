@@ -1,1 +1,2 @@
 vaultwarden/server
+gitlab/gitlab-ce
